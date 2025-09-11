@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-portfolio-website-eta-sage.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afzalkottukkal23@gmail.com)
 
-## 🚀 Data Scientist | Machine Learning Engineer
+## Data Scientist | Machine Learning Engineer
 
 > *Turning raw data into meaningful insights and building AI solutions that create real-world impact*
 
