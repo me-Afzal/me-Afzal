@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-portfolio-website-eta-sage.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afzalkottukkal23@gmail.com)
 [![Twitter](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Afzal_KTKL)
-![Profile Views](https://komarev.com/ghpvc/?username=me-Afzal&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=me-Afzal&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS&v=2)
 
 </div>
 
@@ -47,7 +47,7 @@ class AfzalA:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=me-Afzal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=me-Afzal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
