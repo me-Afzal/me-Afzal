@@ -26,8 +26,8 @@ class AfzalA:
         self.role       = "AI/ML Engineer"
         self.company    = "Golgix"
         self.education  = "B.Com in Accounts & Data Science"
-        self.training   = "Specialized Data Science — Brototype"
-        self.interests  = ["Deep Learning", "LLMOps", "RAG Architectures", "Edge AI"]
+        self.training   = "Specialized Data Science"
+        self.interests  = ["Deep Learning", "LLMOps", "RAG Architectures"]
         self.motto      = "Ship models, not just notebooks."
 
     def current_focus(self):
