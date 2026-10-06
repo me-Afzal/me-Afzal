@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-portfolio-website-eta-sage.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afzalkottukkal23@gmail.com)
 [![Twitter](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Afzal_KTKL)
-![Profile Views](https://komarev.com/ghpvc/?username=me-Afzal&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS&v=2)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=me-Afzal.me-Afzal&left_color=%23555&right_color=%236C63FF&left_text=PROFILE%20VIEWS)
 
 </div>
 
