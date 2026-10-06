@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Afzal%20A.&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=AI%2FML%20Engineer%20%40%20Golgix&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Afzal%20A&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=AI%2FML%20Engineer%20%40%20Golgix&descSize=20&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Building+Intelligent+Systems+at+Scale+%F0%9F%A7%A0;Turning+Raw+Data+into+Business+Impact+%F0%9F%93%8A;Production-Grade+ML+Pipelines+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%9C" alt="Typing SVG" /></a>
